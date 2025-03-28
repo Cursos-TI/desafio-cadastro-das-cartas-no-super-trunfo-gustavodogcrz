@@ -18,7 +18,7 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
-    char estado1=a, estado2=b; // cria entrada e saida de uma unica letra.
+    char estado1, estado2; // cria entrada e saida de uma unica letra.
     char codigo1[3], codigo2[3],cidade1[20], cidade2[20] ; //cria entrada e saida de varios caracteres.
     int populacao1=0, populacao2=0, pturistico1=0, pturistico2=0; //cria entrada e saida numeros inteiros.
     float area1=0, area2=0, pib1=0, pib2=0; //cria ewntrada e saida de numeros com pontos flutuantes.
