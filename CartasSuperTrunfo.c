@@ -24,7 +24,7 @@ int main() {
     float area1=0, area2=0, pib1=0, pib2=0; //cria ewntrada e saida de numeros com pontos flutuantes.
     float denpopula1=0, denpopula2=0, pibpercapita1=0, pibpercapita2=0;//cria novos calculos noprograma
     
-    printf("******* Jogo Cartas Super Trunfo*******\n\n\n"); 
+    printf("*********  Jogo Cartas Super Trunfo  *********\n\n\n"); 
 
     printf("Digite de A a H: "); //entrada de texto para o usuario cadastrar os dados. 
     scanf("%s",estado1); //informar onde armazenar o que foi digitado.
